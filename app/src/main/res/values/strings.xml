@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Ahmed Edits</string>
+    <string name="app_tagline">AI Video Edit Transfer + Motion &amp; Effect Studio</string>
+    
+    <!-- Home CTAs -->
+    <string name="cta_create_edit">Create Edit From Video</string>
+    <string name="cta_start_new">Start New Edit</string>
+    <string name="cta_explore_templates">Reusable Templates</string>
+    <string name="title_recent_projects">Recent Projects</string>
+    <string name="no_projects_yet">No projects yet. Upload a reference video to recreate its edit style!</string>
+    
+    <!-- Quick Modes -->
+    <string name="mode_full_edit">Full Edit Recreate</string>
+    <string name="mode_filter_only">Apply Filter / Look Only</string>
+    <string name="mode_motion_only">Motion &amp; Zoom Only</string>
+    <string name="mode_transitions_only">Transitions Only</string>
+    
+    <!-- Upload & Analysis -->
+    <string name="title_upload_ref">Upload Reference Video</string>
+    <string name="subtitle_upload_ref">Select a video whose editing style, motion, effects, timing, or transitions you want to recreate.</string>
+    <string name="btn_gallery">Gallery</string>
+    <string name="btn_camera">Camera</string>
+    <string name="btn_samples">Preset Reference Clips</string>
+    <string name="btn_analyze_reference">Analyze Reference</string>
+    <string name="title_analyzing">ANALYZING REFERENCE VIDEO</string>
+    <string name="btn_cancel">Cancel</string>
+    
+    <!-- Blueprint -->
+    <string name="title_blueprint">Edit Blueprint</string>
+    <string name="btn_apply_to_my_video">Apply To My Video</string>
+    <string name="stat_scenes">Scenes</string>
+    <string name="stat_motion">Motion Events</string>
+    <string name="stat_zooms">Zooms</string>
+    <string name="stat_transitions">Transitions</string>
+    <string name="stat_speed">Speed Ramps</string>
+    <string name="stat_color">Color Grade</string>
+    <string name="stat_audio">Beat Sync</string>
+    
+    <!-- User Video -->
+    <string name="title_add_user_video">Add Your Video Footage</string>
+    <string name="subtitle_add_user_video">Select one or multiple clips to adapt the reference blueprint onto.</string>
+    <string name="btn_continue">Continue to Transfer Settings</string>
+    
+    <!-- Settings & Controls -->
+    <string name="title_transfer_settings">Transfer Settings</string>
+    <string name="btn_generate_edit">Generate AI Edit</string>
+    <string name="match_strength">Match Strength</string>
+    <string name="btn_export">Export Video</string>
+    <string name="btn_save_template">Save as Template</string>
+</resources>
